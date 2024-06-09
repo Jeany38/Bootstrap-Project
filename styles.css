@@ -31,7 +31,7 @@ body {
     position: relative;
     width: 100%;
     height: 60vh; /* Adjust height as needed */
-    background-image: url('/images/Background.jpeg');
+    background-image: url('images/Background.jpeg');
     background-size: cover;
     background-position: center;
     color: #fff;
@@ -234,7 +234,7 @@ body {
     position: relative;
     width: 100%;
     height: 60vh; /* Adjust height as needed */
-    background-image: url('/images/aboutus.jpeg'); /* Replace with the path to your background image */
+    background-image: url('images/aboutus.jpeg'); /* Replace with the path to your background image */
     background-size: cover;
     background-position: center;
     color: #fff;
@@ -290,7 +290,7 @@ body {
     position: relative;
     width: 100%;
     height: 60vh; /* Adjust height as needed */
-    background-image: url('/images/service.jpeg'); /* Replace with the path to your background image */
+    background-image: url('images/service.jpeg'); /* Replace with the path to your background image */
     background-size: cover;
     background-position: center;
     color: #fff;
@@ -515,7 +515,7 @@ body {
     position: relative;
     width: 100%;
     height: 100vh; /* Full viewport height */
-    background-image: url('/images/404.png'); /* Replace with your background image path */
+    background-image: url('images/404.png'); /* Replace with your background image path */
     background-size: cover;
     background-position: center;
     color: #fff;
